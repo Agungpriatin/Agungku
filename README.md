@@ -20,7 +20,7 @@ Repo to demonstrate Laundry App UI in Android app. This is a follow up on the so
 # Demo App
 
 <p align="center">
-  <a href="https://github.com/achmadqomarudin/Laundry-App-UI/releases/latest/download/app-demo.apk">
+  <a href="https://github.com/Agungpriatin/Agungku">
     <img src="https://www.inspirefm.org/wp-content/uploads/button-apk.png" height="100">
   </a>
 </p>
@@ -32,7 +32,7 @@ Repo to demonstrate Laundry App UI in Android app. This is a follow up on the so
     <th>Example 3</th>
   </tr>
   <tr>
-    <td><img src="screenshots/1.gif"/></td>
+    <td><img src="screenshots/1.jpg"/></td>
     <td><img src="screenshots/2.jpg"/></td>
     <td><img src="screenshots/3.jpg"/></td>
   </tr>
@@ -51,17 +51,7 @@ Repo to demonstrate Laundry App UI in Android app. This is a follow up on the so
 # License
 
 ```
-    Copyright (C) Achmad Qomarudin
+    Copyright (C) Agung Priatin
 
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
-
-       http://www.apache.org/licenses/LICENSE-2.0
-
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
+    UI Ini di buat dengan waktu yang cukup panjang dan fokus
 ```
