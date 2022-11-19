@@ -32,7 +32,7 @@ Repo to demonstrate Laundry App UI in Android app. This is a follow up on the so
     <th>Example 3</th>
   </tr>
   <tr>
-    <td><img src="screenshots/1.jpg"/></td>
+    <td><img src="screenshots/screnshot1.jpg"/></td>
     <td><img src="screenshots/2.jpg"/></td>
     <td><img src="screenshots/3.jpg"/></td>
   </tr>
